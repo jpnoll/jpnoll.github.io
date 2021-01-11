@@ -8,35 +8,24 @@ h1 {
   font-size: 3em;
   color: white;
   text-transform: uppercase;
+  text-align: center;
 }
 
-p2{
+.links{
   font-size:2em;
-  color: white;
-  font-family: 'tradegothiclt-bold', sans-serif;
+  color: black;
+  font-family: 'tradegothiclt-bold';
+  text-align:center;
   
 }
 
-p3{
-  font-size:2em;
-  color: white;
-  font-family: 'tradegothiclt-bold', sans-serif;
-
-  
-  
-}
-
-p4{
-  font-size:2em;
-  color: white;
-  font-family: 'tradegothiclt-bold', sans-serif;
-}
-
-img {
+ .center {
   display: block;
+  width: 400;
+  height: 225;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  width: 50%;
 }
 
 
