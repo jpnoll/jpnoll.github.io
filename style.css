@@ -2,20 +2,28 @@ body {
   background-color: #FF5A5A;
   height: 100%;
   font-family: 'tradegothiclt-bold', sans-serif;
-  
-  
-}
+  }
 
 h1 {
-  font-size: 1em;
+  font-size: 3em;
   color: white;
   text-transform: uppercase;
 }
 
 p2{
-  font-size:1em;
+  font-size:2em;
   color: white;
   font-family: 'tradegothiclt-bold', sans-serif;
+  
+}
+
+p3{
+  font-size:2em;
+  color: white;
+  font-family: 'tradegothiclt-bold', sans-serif;
+  padding-top: 25px;
+  
+  
 }
 
 img {
