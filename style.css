@@ -18,6 +18,11 @@ p2{
   font-family: 'tradegothiclt-bold', sans-serif;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 
 span {
   border-right: .05em solid;
