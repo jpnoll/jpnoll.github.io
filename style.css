@@ -11,6 +11,10 @@ h1 {
   text-align: center;
 }
 
+.centered{
+  text-align:center;
+}
+
 .links{
   font-size:2em;
   color: black;
@@ -19,20 +23,3 @@ h1 {
   
 }
 
- .centered{
-  text-align: center;
-  margin-left:auto;
-  margin-right:auto;
-}
-
-
-span {
-  border-right: .05em solid;
-  animation: caret 1s steps(1) infinite;
-}
-
-@keyframes caret {
-  50% {
-    border-color: transparent;
-  }
-}
