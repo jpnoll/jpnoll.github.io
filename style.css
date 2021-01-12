@@ -16,10 +16,18 @@ h1 {
 }
 
 .links{
-  font-size:2em;
+  font-size:1.5em;
   color: black;
-  font-family: 'tradegothiclt-bold';
+  font-family: 'courier';
   text-align:center;
+  
   
 }
 
+a:link{
+  color:blue
+}
+
+a:visited{
+  color:blue
+}
