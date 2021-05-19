@@ -36,3 +36,15 @@
   background: #e8c152;
   color: black;
 }
+
+#mydiv {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+
+#mydivheader {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+}
